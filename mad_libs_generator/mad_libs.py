@@ -23,7 +23,7 @@ adjective4 = input("Enter an adjective: ")
 adjective5 = input("Enter an adjective: ")
 
 # Give user a menu of stories
-story_option = int(input("What Mad Libs Story would you like to read today?\n"
+story_option = int(input("What Mad Libs Story would you like to read?\n"
                          "[1] The Stock Market\n"
                          "[2] The Weather Report\n"
                          "[3]"))
